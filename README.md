@@ -49,32 +49,32 @@ The final model, which showed the lowest RMSE in cross-validation, was saved for
 ## Installation
 
 1. Clone the repository:
-   ```bash
-  git clone https://github.com/your_user/Machine-Learning-Videogames.git
+      ```bash
+     git clone https://github.com/your_user/Machine-Learning-Videogames.git
 
 2. Change to the project directory:
-   ```bash
-  cd Machine-Learning-Videogames
+      ```bash
+     cd Machine-Learning-Videogames
 
 3. Install dependencies:
-   ```bash
-  pip install -r requirements.txt
+      ```bash
+     pip install -r requirements.txt
 
 ---
 
 ## Usage
 
 - **The notebooks for exploratory analysis and preprocessing are available at:**
-  ```bash
-src/notebooks/
+     ```bash
+   src/notebooks/
 
 - **To run the optimization, evaluation, and save the final model, use the scripts in:**
-  ```bash
-src/scripts/
+     ```bash
+   src/scripts/
 
 - **The final model (Gradient Boosting) is saved in:**
-  ```bash
-src/models/best_model_GradientBoosting.pkl
+     ```bash
+   src/models/best_model_GradientBoosting.pkl
 
 ---
 
@@ -87,12 +87,12 @@ Follow these steps:
 1. Fork the repository.
 
 2. Create a branch with your new feature:
-   ```bash
-git checkout -b new-feature
+      ```bash
+   git checkout -b new-feature
 
 3. Make your changes and commit:
-   ```bash
-git commit -am 'Add Feature'
+      ```bash
+   git commit -am 'Add Feature'
 
 4. Send a Pull Request to the original repository:
 
